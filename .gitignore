@@ -1,7 +1,3 @@
 node_modules/
-build/
-android/build/
 *.log
 .env
-.DS_Store
-.vscode/
